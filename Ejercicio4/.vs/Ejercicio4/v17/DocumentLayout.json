@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\diede\\Desktop\\Metodolog\u00EDa\\Proyectos C#\\SumYMultArreglos\\Ejercicio4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7F12CEE0-0F1A-4E4A-8222-39A5ED441425}|Ejercicio4\\Ejercicio4.csproj|c:\\users\\diede\\desktop\\metodolog\u00EDa\\proyectos c#\\sumymultarreglos\\ejercicio4\\ejercicio4\\models\\sellersalary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F12CEE0-0F1A-4E4A-8222-39A5ED441425}|Ejercicio4\\Ejercicio4.csproj|solutionrelative:ejercicio4\\models\\sellersalary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F12CEE0-0F1A-4E4A-8222-39A5ED441425}|Ejercicio4\\Ejercicio4.csproj|c:\\users\\diede\\desktop\\metodolog\u00EDa\\proyectos c#\\sumymultarreglos\\ejercicio4\\ejercicio4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F12CEE0-0F1A-4E4A-8222-39A5ED441425}|Ejercicio4\\Ejercicio4.csproj|solutionrelative:ejercicio4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F12CEE0-0F1A-4E4A-8222-39A5ED441425}|Ejercicio4\\Ejercicio4.csproj|c:\\users\\diede\\desktop\\metodolog\u00EDa\\proyectos c#\\sumymultarreglos\\ejercicio4\\ejercicio4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7F12CEE0-0F1A-4E4A-8222-39A5ED441425}|Ejercicio4\\Ejercicio4.csproj|solutionrelative:ejercicio4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\diede\\Desktop\\Metodolog\u00EDa\\Proyectos C#\\SumYMultArreglos\\Ejercicio4\\Ejercicio4\\Form1.cs",
+              "RelativeDocumentMoniker": "Ejercicio4\\Form1.cs",
+              "ToolTip": "C:\\Users\\diede\\Desktop\\Metodolog\u00EDa\\Proyectos C#\\SumYMultArreglos\\Ejercicio4\\Ejercicio4\\Form1.cs",
+              "RelativeToolTip": "Ejercicio4\\Form1.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAcwFMAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T04:24:03.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SellerSalary.cs",
+              "DocumentMoniker": "C:\\Users\\diede\\Desktop\\Metodolog\u00EDa\\Proyectos C#\\SumYMultArreglos\\Ejercicio4\\Ejercicio4\\models\\SellerSalary.cs",
+              "RelativeDocumentMoniker": "Ejercicio4\\models\\SellerSalary.cs",
+              "ToolTip": "C:\\Users\\diede\\Desktop\\Metodolog\u00EDa\\Proyectos C#\\SumYMultArreglos\\Ejercicio4\\Ejercicio4\\models\\SellerSalary.cs",
+              "RelativeToolTip": "Ejercicio4\\models\\SellerSalary.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T04:21:34.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\diede\\Desktop\\Metodolog\u00EDa\\Proyectos C#\\SumYMultArreglos\\Ejercicio4\\Ejercicio4\\Form1.cs",
+              "RelativeDocumentMoniker": "Ejercicio4\\Form1.cs",
+              "ToolTip": "C:\\Users\\diede\\Desktop\\Metodolog\u00EDa\\Proyectos C#\\SumYMultArreglos\\Ejercicio4\\Ejercicio4\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Ejercicio4\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T04:12:06.959Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

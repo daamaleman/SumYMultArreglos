@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\diede\\Desktop\\Metodolog\u00EDa\\Proyectos C#\\SumYMultArreglos\\Ejercicio3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3C5D6463-BB14-4AFD-B1FF-04C066FC4272}|Ejercicio3\\Ejercicio3.csproj|c:\\users\\diede\\desktop\\metodolog\u00EDa\\proyectos c#\\sumymultarreglos\\ejercicio3\\ejercicio3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3C5D6463-BB14-4AFD-B1FF-04C066FC4272}|Ejercicio3\\Ejercicio3.csproj|solutionrelative:ejercicio3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C5D6463-BB14-4AFD-B1FF-04C066FC4272}|Ejercicio3\\Ejercicio3.csproj|c:\\users\\diede\\desktop\\metodolog\u00EDa\\proyectos c#\\sumymultarreglos\\ejercicio3\\ejercicio3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C5D6463-BB14-4AFD-B1FF-04C066FC4272}|Ejercicio3\\Ejercicio3.csproj|solutionrelative:ejercicio3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C5D6463-BB14-4AFD-B1FF-04C066FC4272}|Ejercicio3\\Ejercicio3.csproj|c:\\users\\diede\\desktop\\metodolog\u00EDa\\proyectos c#\\sumymultarreglos\\ejercicio3\\ejercicio3\\models\\sales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C5D6463-BB14-4AFD-B1FF-04C066FC4272}|Ejercicio3\\Ejercicio3.csproj|solutionrelative:ejercicio3\\models\\sales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\diede\\Desktop\\Metodolog\u00EDa\\Proyectos C#\\SumYMultArreglos\\Ejercicio3\\Ejercicio3\\Form1.cs",
+              "RelativeDocumentMoniker": "Ejercicio3\\Form1.cs",
+              "ToolTip": "C:\\Users\\diede\\Desktop\\Metodolog\u00EDa\\Proyectos C#\\SumYMultArreglos\\Ejercicio3\\Ejercicio3\\Form1.cs",
+              "RelativeToolTip": "Ejercicio3\\Form1.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAwBQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T03:55:24.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Sales.cs",
+              "DocumentMoniker": "C:\\Users\\diede\\Desktop\\Metodolog\u00EDa\\Proyectos C#\\SumYMultArreglos\\Ejercicio3\\Ejercicio3\\models\\Sales.cs",
+              "RelativeDocumentMoniker": "Ejercicio3\\models\\Sales.cs",
+              "ToolTip": "C:\\Users\\diede\\Desktop\\Metodolog\u00EDa\\Proyectos C#\\SumYMultArreglos\\Ejercicio3\\Ejercicio3\\models\\Sales.cs",
+              "RelativeToolTip": "Ejercicio3\\models\\Sales.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T03:53:02.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\diede\\Desktop\\Metodolog\u00EDa\\Proyectos C#\\SumYMultArreglos\\Ejercicio3\\Ejercicio3\\Form1.cs",
+              "RelativeDocumentMoniker": "Ejercicio3\\Form1.cs",
+              "ToolTip": "C:\\Users\\diede\\Desktop\\Metodolog\u00EDa\\Proyectos C#\\SumYMultArreglos\\Ejercicio3\\Ejercicio3\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Ejercicio3\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T03:45:38.067Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
