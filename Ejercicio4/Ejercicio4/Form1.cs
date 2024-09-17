@@ -12,12 +12,14 @@ namespace Ejercicio4
 {
     public partial class Form1 : Form
     {
+        // Este arreglo almacena la cantidad de vendedores en cada rango de salario.
         private int[] salaryRanges = new int[9];
         public Form1()
         {
             InitializeComponent();
         }
 
+        // Este método calcula el salario basado en las ventas brutas y actualiza el arreglo salaryRanges en consecuencia.
         private void CalculateSalary(int grossSales)
         {
             int salary = (int)(200 + 0.09 * grossSales);
@@ -60,6 +62,7 @@ namespace Ejercicio4
             }
         }
 
+        // Este método se encarga de agregar una venta y calcular el salario correspondiente.
         private void btnAddSale_Click(object sender, EventArgs e)
         {
             int grossSales;
@@ -75,6 +78,7 @@ namespace Ejercicio4
             tbSales.Clear();
         }
 
+        // Este método muestra el reporte de los salarios de los vendedores.
         private void btnShowReport_Click(object sender, EventArgs e)
         {
             lbReport.Items.Clear();
